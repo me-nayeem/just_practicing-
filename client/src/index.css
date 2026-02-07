@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .bg-white {
+    background-color: #8b8888;
+  }
+  .text-black {
+    color: #ffffff;
+  }
+  .dashboard_text {
+    color: black;
+  }
+
+  .dashboard_text_second {
+    color: rgb(199, 197, 197);
+  }
+}
